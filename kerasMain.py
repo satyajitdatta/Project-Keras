@@ -64,7 +64,7 @@ if __name__ == '__main__':
     print('And now compiling model ...')
     compile_model()
 
-    print("Let's see if we can fi it ...")
+    print("Let's see if we can fit it ...")
     fit_model()
 
     print('Time to evaluate ...')
